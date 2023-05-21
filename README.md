@@ -16,3 +16,4 @@ Para aumentar a produtividade e facilitar a manutenção do código CSS, foi uti
 
 A página da KingHost é totalmente responsiva, adaptando-se a diferentes tamanhos de tela e dispositivos. Isso foi possível graças ao uso de técnicas de design responsivo, como media queries e flexibilidade no layout, garantindo uma experiência consistente e agradável para os usuários em qualquer dispositivo.
 
+![Page](./kinghost.jpeg)
