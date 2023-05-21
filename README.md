@@ -2,7 +2,7 @@
 
 Este projeto é uma landing page da KingHost, projetada para demonstrar a estruturação HTML e a utilização do pré-processador Sass para aumentar a produtividade no desenvolvimento. Além disso, a página é totalmente responsiva, se adaptando a diferentes dispositivos.
 
-🔗 Acesse o site ao vivo: [KingHost Landing Page](https://loriprojects-kinghost.netlify.app/)
+🔗 Acesse o site: [KingHost Landing Page](https://loriprojects-kinghost.netlify.app/)
 
 ## 💻 Estruturação HTML
 
